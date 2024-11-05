@@ -76,8 +76,7 @@ Precision, Recall, F1-score
 
 To run the project:
 
-# Preprocess images.
-
+Preprocess images.
 
 Train the model by running:
 
