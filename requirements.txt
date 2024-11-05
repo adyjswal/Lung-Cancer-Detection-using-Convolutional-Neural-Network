@@ -1,1 +1,12 @@
-
+numpy
+pandas
+matplotlib
+PIL
+glob
+sklearn
+cv2
+gc
+os
+tensorflow
+keras
+warnings
